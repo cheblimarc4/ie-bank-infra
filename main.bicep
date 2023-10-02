@@ -87,7 +87,7 @@ resource postgresSQLDatabase 'Microsoft.DBforPostgreSQL/flexibleServers/database
 
 module appService 'modules/app-service.bicep' = {
   name: 'appService'
-  params: {
+  params: {ƒDBpass
     location: location
     environmentType: environmentType
     appServiceAppName: appServiceAppName
