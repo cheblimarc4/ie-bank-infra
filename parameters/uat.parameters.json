@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "cheblimarc4-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "cheblimarc4-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "cheblimarc4-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "cheblimarc4-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "cheblimarc4-fe-uat"
+        },
+        "location": {
+            "value": "West Us"
+        }
+    }
+}
