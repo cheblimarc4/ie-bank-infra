@@ -6,22 +6,22 @@
             "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "cheblimarc4-dbsrv-uat"
+            "value": "mcheblic-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "cheblimarc4-db-uat"
+            "value": "mcheblic-db-uat"
         },
         "appServicePlanName": {
-            "value": "cheblimarc4-asp-uat"
+            "value": "mcheblic-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "cheblimarc4-be-uat"
+            "value": "mcheblic-be-uat"
         },
         "appServiceAppName": {
-            "value": "cheblimarc4-fe-uat"
+            "value": "mcheblic-fe-uat"
         },
         "location": {
-            "value": "West Us"
+            "value": "West US"
         }
     }
 }
