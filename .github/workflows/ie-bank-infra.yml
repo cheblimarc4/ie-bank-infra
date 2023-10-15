@@ -14,7 +14,7 @@ env:
   RESOURCE_GROUP_UAT: aguadamillas_students_2
   SUBSCRIPTION_ID_DEV: e0b9cada-61bc-4b5a-bd7a-52c606726b3b
   SUBSCRIPTION_ID_UAT: e0b9cada-61bc-4b5a-bd7a-52c606726b3b
-  USER_ALIAS: mcheblic
+  USER_ALIAS: cheblimarc4
 
 jobs:
   build:
@@ -36,8 +36,8 @@ jobs:
       name: 'Development'
     env:
       ENV: dev
-      DBHOST: mcheblic-dbsrv-dev.postgres.database.azure.com
-      DBNAME: mcheblic-db-dev
+      DBHOST: cheblimarc4-dbsrv-dev.postgres.database.azure.com
+      DBNAME: cheblimarc4-db-dev
       FLASK_APP: app.py
       FLASK_DEBUG: 1
       

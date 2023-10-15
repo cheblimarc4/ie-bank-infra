@@ -6,22 +6,22 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "mcheblic-dbsrv-dev"
+            "value": "cheblimarc4-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "mcheblic-db-dev"
+            "value": "cheblimarc4-db-dev"
         },
         "appServicePlanName": {
-            "value": "mcheblic-asp-dev"
+            "value": "cheblimarc4-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "mcheblic-be-dev"
+            "value": "cheblimarc4-be-dev"
         },
         "appServiceAppName": {
-            "value": "mcheblic-fe-dev"
+            "value": "cheblimarc4-fe-dev"
         },
         "location": {
-            "value": "West Us"
+            "value": "West US"
         }
     }
 }
