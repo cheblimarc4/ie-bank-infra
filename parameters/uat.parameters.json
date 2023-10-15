@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "cheblimarc4-fe-uat"
         },
+        "azureMonitorName": {
+            "value": "cheblimarc4-am-uat"
+          },
+        "appInsightsName": {
+            "value": "cheblimarc4-ai-uat"
+          },
         "location": {
             "value": "West US"
         }
