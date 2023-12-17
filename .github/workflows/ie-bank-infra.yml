@@ -24,7 +24,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
       # Checkout code
     - uses: actions/checkout@main
 
@@ -107,7 +106,7 @@ jobs:
             environment:
               name: 'Production'
             env:
-                ENV: uat
+                ENV: prod
                 DBHOST: cheblimarc4-dbsrv-prod.postgres.database.azure.com
                 DBNAME: cheblimarc4-db-prod
                 FLASK_APP: app.py
