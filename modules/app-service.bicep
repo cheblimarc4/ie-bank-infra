@@ -13,6 +13,8 @@ param appServiceAPIDBHostFLASK_DEBUG string
 @allowed([
   'nonprod'
   'prod'
+  'cheblimarc4-am-dev'
+  'cheblimarc4-ai-dev'
 ])
 param environmentType string
 
