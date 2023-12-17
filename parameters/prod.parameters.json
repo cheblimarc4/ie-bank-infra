@@ -6,28 +6,28 @@
             "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "cheblimarc4-dbsrv-prod"
+            "value": "cheblimarc45-dbsrv-prod"
         },
         "postgreSQLDatabaseName": {
-            "value": "cheblimarc4-db-prod"
+            "value": "cheblimarc45-db-prod"
         },
         "appServicePlanName": {
-            "value": "cheblimarc4-asp-prod"
+            "value": "cheblimarc45-asp-prod"
         },
         "appServiceAPIAppName": {
-            "value": "cheblimarc4-be-prod"
+            "value": "cheblimarc45-be-prod"
         },
         "appServiceAppName": {
-            "value": "cheblimarc4-fe-prod"
+            "value": "cheblimarc45-fe-prod"
         },
         "location": {
             "value": "West US"
         },
         "azureMonitorName":{ 
-            "value": "cheblimarc4-am-prod"
+            "value": "cheblimarc45-am-prod"
         },
         "appInsightsName":{ 
-            "value": "cheblimarc4-ai-prod"
+            "value": "cheblimarc45-ai-prod"
         }
     }
 }
