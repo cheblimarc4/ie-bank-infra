@@ -24,10 +24,10 @@
             "value": "West US"
         },
         "azureMonitorName":{ 
-            "value": "cheblimarc4-am-dev"
+            "value": "cheblimarc4-am-uat"
         },
         "appInsightsName":{ 
-            "value": "cheblimarc4-ai-dev"
+            "value": "cheblimarc4-ai-uat"
         }
     }
 }
