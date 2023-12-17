@@ -8,6 +8,9 @@ on:
         - '.github/**'
         - 'modules/**'
         - '!scripts/**'
+      branches:
+        - main
+        - marc-new
 
 env:
   RESOURCE_GROUP_DEV: aguadamillas_students_1
