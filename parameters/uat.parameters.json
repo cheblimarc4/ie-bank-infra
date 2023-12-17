@@ -22,6 +22,12 @@
         },
         "location": {
             "value": "West US"
+        },
+        "azureMonitorName":{ 
+            "value": "cheblimarc4-azmon-dev"
+        },
+        "appInsightsName ":{ 
+            "value": "cheblimarc4-appinsights-dev"
         }
     }
 }
