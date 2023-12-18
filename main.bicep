@@ -2,10 +2,6 @@
 @allowed([
   'nonprod'
   'prod'
-  'cheblimarc4-am-dev'
-  'cheblimarc4-ai-dev'
-  'cheblimarc45-am-prod'
-  'cheblimarc45-ai-prod'
 ])
 param azureMonitorName string 
 param appInsightsName string 

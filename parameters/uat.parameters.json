@@ -27,7 +27,7 @@
             "value": "cheblimarc4-am-uat"
         },
         "appInsightsName":{ 
-            "value": "cheblimarc4-ai-"
+            "value": "cheblimarc4-ai-uat"
         }
     }
 }
